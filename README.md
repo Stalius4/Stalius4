@@ -25,7 +25,7 @@ From the very beginning of my coding journey, I've been intrigued by the limitle
 ## 📞 Let's Connect!
 
 - 💼 [LinkedIn]([your_linkedin_profile_link](https://www.linkedin.com/in/deivydas-rimgaila-8aa787218/))
-- 📧 Email: [your_email@example.com](mailto:deivydasrimgaila@gmail.com)
+- 📧 Email: [deivydasrimgaila@gmail.com](mailto:deivydasrimgaila@gmail.com)
 
 ---
 
