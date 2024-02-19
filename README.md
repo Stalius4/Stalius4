@@ -3,7 +3,7 @@
 I'm Deivydas, a passionate software developer. Over the past year, my journey in the tech world has been exhilarating. Having attended the Code Nation coding bootcamp, I've gained valuable experience and a deep appreciation for the ever-evolving landscape of web development.
 
 ## 📚 Education
-
+- **Open University** Computer science student at Open University, currently in my first year. 
 - **Code Nation Coding Bootcamp**
   - An intensive program that sharpened my skills and equipped me with the foundations of software development.
 
